@@ -1,0 +1,4 @@
+Running: xsim.dir/MED_FILTER_TEST_vhd_behav/xsimk.exe -simmode gui -wdb MED_FILTER_TEST_vhd_behav.wdb -simrunnum 0 -socket 60666
+Design successfully loaded
+Design Loading Memory Usage: 6272 KB (Peak: 6272 KB)
+Design Loading CPU Usage: 15 ms

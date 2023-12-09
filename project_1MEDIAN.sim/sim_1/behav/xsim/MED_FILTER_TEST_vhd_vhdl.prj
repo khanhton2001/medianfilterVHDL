@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1MEDIAN.srcs/sources_1/new/D_FF.vhd" \
+"../../../../project_1MEDIAN.srcs/sources_1/new/FIFO.vhd" \
+"../../../../project_1MEDIAN.srcs/sources_1/new/MAX_COMP.vhd" \
+"../../../../project_1MEDIAN.srcs/sources_1/new/MED_FILTER.vhd" \
+"../../../../project_1MEDIAN.srcs/sources_1/new/MID_COMP.vhd" \
+"../../../../project_1MEDIAN.srcs/sources_1/new/MIN_COMP.vhd" \
+"../../../../project_1MEDIAN.srcs/sources_1/new/ODERING_COMP.vhd" \
+"../../../../project_1MEDIAN.srcs/sources_1/new/P_E.vhd" \
+"../../../../project_1MEDIAN.srcs/sim_1/new/MED_FILTER_TEST.vhd" \
+
+# Do not sort compile order
+nosort

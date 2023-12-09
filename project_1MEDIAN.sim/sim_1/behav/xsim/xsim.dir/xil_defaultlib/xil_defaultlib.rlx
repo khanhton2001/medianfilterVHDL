@@ -1,0 +1,17 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sim_1/new/MED_FILTER_TEST.vhd,1702092106,vhdl,,,,med_filter_test_vhd,,,,,,,,
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sim_1/new/median_filter_tb.vhd,1702091023,vhdl,,,,median_filter_tb,,,,,,,,
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/D_FF.vhd,1702091693,vhdl,,,,d_ff,,,,,,,,
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/FIFO.vhd,1702091723,vhdl,,,,fifo,,,,,,,,
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/MAX_COMP.vhd,1702091770,vhdl,,,,max_comp,,,,,,,,
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/MED_FILTER.vhd,1702091860,vhdl,,,,med_filter,,,,,,,,
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/MID_COMP.vhd,1702091900,vhdl,,,,mid_comp,,,,,,,,
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/MIN_COMP.vhd,1702091932,vhdl,,,,min_comp,,,,,,,,
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/ODERING_COMP.vhd,1702091967,vhdl,,,,ordering_comp,,,,,,,,
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/P_E.vhd,1702092051,vhdl,,,,p_e,,,,,,,,
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/median_filter.vhd,1702089859,vhdl,,,,median_filter,,,,,,,,
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/sorter.vhd,1702090964,vhdl,,,,sorter,,,,,,,,
+C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/type_def.vhd,1702089904,vhdl,C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sim_1/new/median_filter_tb.vhd;C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/median_filter.vhd;C:/Users/Huy Nam Ton/Downloads/project_1MEDIAN/project_1MEDIAN.srcs/sources_1/new/sorter.vhd,,,type_def,,,,,,,,
